@@ -11,7 +11,8 @@ You can modify the scale by changing `desired_length` value in the file
 * (optional) an interest in nerdy tattoos
 
 # Example Image
-![Image of circles in a line which represents the planets](https://raw.githubusercontent.com/OverlordAlex/projectname/DrawScaledPlanetsInLineblob/master/figure_1-1.png)
+![Image of circles in a line which represents the planets](figure_1-1.png?raw=true "Planets")
+
 
 # TODO
 * Scale by desired size of Earth instead of total length
